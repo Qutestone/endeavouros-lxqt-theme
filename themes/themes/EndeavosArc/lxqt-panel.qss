@@ -3,7 +3,7 @@
  */
 
 LXQtPanel #BackgroundWidget {
-    background:#1b2d4f;
+    background-color: rgba(27, 45, 79, 80%);
 }
 QToolTip {
     border: 1px solid rgb(39, 44, 53);
@@ -160,7 +160,7 @@ VolumePopup  > QSlider::sub-page:vertical {
 #TaskBar QToolButton{
     margin: 2px;
     padding: 2px;
-}
+    }
 
 #TaskBar QToolButton:on{
     /*border: 1px solid rgb(57, 61, 75);*/
